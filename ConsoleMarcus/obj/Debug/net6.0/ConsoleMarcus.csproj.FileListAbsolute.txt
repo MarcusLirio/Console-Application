@@ -1,0 +1,15 @@
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\bin\Debug\net6.0\ConsoleMarcus.exe
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\bin\Debug\net6.0\ConsoleMarcus.deps.json
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\bin\Debug\net6.0\ConsoleMarcus.runtimeconfig.json
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\bin\Debug\net6.0\ConsoleMarcus.dll
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\bin\Debug\net6.0\ConsoleMarcus.pdb
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\ConsoleMarcus.csproj.AssemblyReference.cache
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\ConsoleMarcus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\ConsoleMarcus.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\ConsoleMarcus.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\ConsoleMarcus.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\ConsoleMarcus.dll
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\refint\ConsoleMarcus.dll
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\ConsoleMarcus.pdb
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\ConsoleMarcus.genruntimeconfig.cache
+C:\Users\Marcus\Desktop\webAplication\ConsoleMarcusAplication\ConsoleMarcus\obj\Debug\net6.0\ref\ConsoleMarcus.dll
